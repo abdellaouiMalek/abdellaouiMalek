@@ -162,17 +162,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellaouiMalek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<h2 align="left">🔥   My Stats </h2>
-
-###
+## 🚀 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellaouiMalek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abdellaouiMalek&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
 </div>
 
-###
+---
+
 ###
 
 <br clear="both">
