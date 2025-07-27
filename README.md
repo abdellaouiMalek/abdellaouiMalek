@@ -36,6 +36,16 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Abdellaoui Malek<br><br>🔍 Passionate Data Science Engineer with experience in machine learning, data analysis, and software development.  <br><br>💻 Skilled in Python, data processing, and deploying scalable data pipelines.  <br><br>🚀 Driven by innovation and continuous learning to build scalable AI solutions.  <br><br>🤝 Open to new challenges, collaboration, and continuous learning.</p>
+
+###
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/abdellaouiMalek/abdellaouiMalek/output/snake.svg" alt="Snake animation" />
