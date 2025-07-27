@@ -104,6 +104,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img height="40" alt="image" src="https://github.com/user-attachments/assets/a66a20bc-ffce-451c-ac42-2d45194536ca" />
+
 </div>
 
 ###
