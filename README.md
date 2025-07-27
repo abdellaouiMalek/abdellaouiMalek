@@ -108,6 +108,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="40" alt="opencv logo"  />
   <img width="12" />
   <img height="40" alt="image" src="https://github.com/user-attachments/assets/a66a20bc-ffce-451c-ac42-2d45194536ca" />
+  <img width="12" />
+  <img height="40" alt="image" src="https://github.com/user-attachments/assets/b65d3e33-2f8c-4c85-940b-2e5702953b02" />
+
 
 </div>
 
