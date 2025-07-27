@@ -13,9 +13,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
 </a>
   
-  <a href="mailto:abdellaoui.maleks@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="outlook logo" />
-  </a>
+<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=malek.abdellaoui@esprit.tn" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="outlook logo" />
+</a>
   
   <a href="https://www.facebook.com/malek.seltana/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo" />
